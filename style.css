@@ -1,0 +1,70 @@
+.bouton{
+    color: #fff;
+    background-color: #FF9800;
+}
+.parti1{
+    background: radial-gradient(circle at 10% 20%, rgb(0, 93, 133) 0%, rgb(0, 181, 149) 90%);
+}
+.sous-parti{
+    margin-top: 8rem;
+}
+.vert{
+    background-color: #0a7f6f;
+    border: 1px solid transparent;
+    border-radius: 12px;
+}
+.vert i{
+    color: #fff;
+}
+.page{
+    border: 1px solid #0a7f6f;
+    border-radius: 12px;
+}
+.un{
+    border: 1px solid #E53935;
+}
+.deux{
+    border:1px solid #0a7f6f;
+    color: #0a7f6f;
+}
+.trois{
+    border:1px solid #FF9800;
+    color: #FF9800;
+}
+#section4{
+    background-color: #E53935;
+}
+.blanc{
+    color: #fff;
+}
+.bout{
+    width: 8rem;
+    margin: auto;
+    background-color: #c62828e1;
+}
+.bordure{
+    border: 1px solid #0a7f6f;
+}
+#section6{
+    background-color: #E53935;
+}
+.pied{
+    background-color: #009688;
+}
+.div1{
+    content: "";
+    padding: 15px;
+    border-radius: 50px;
+    height: 10px;
+    width: 15px;
+    background-color: rgba(128, 128, 128, 0.621);
+}
+
+@media screen {
+    .photo{
+        width: 10%;
+    }
+    .PHOTOS{
+        width: 15rem;
+    }
+}
